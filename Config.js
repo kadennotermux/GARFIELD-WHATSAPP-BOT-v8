@@ -16,32 +16,32 @@ global.APIKeys = {
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
+*GINGERSKETCHY Ξ*
+*I am Not a developer...*
+*From KENYA 🇰🇪*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+94711502119'] //👈  Enter Your number
-global.premium =  ['+94711502119'] //👈  Enter Your number
-global.ownernomer = '+94711502119' //👈  Enter Your number
-global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
-global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
-global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
+*Follow Me - https://giveit.link/gingerbreadsketchy*`  // 👈 Enter Your details and Social Media Links and Anything
+global.owner =  ['+254792893310'] //👈  Enter Your number
+global.premium =  ['+254792893310'] //👈  Enter Your number
+global.ownernomer = '+254792893310' //👈  Enter Your number
+global.ownername = '𝙶𝙸𝙽𝙶𝙴𝚁' //👈 Enter Your name
+global.botname = 'PANDA ＢＯＴ' //👈 Enter Your Bot name
+global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦inger 𝖡𝗈𝗍s' //👈 Enter Your Name
+global.ig = 'https://github.com/GingerBreadSketchy' // 👈 You Can change this your choice
+global.region = 'Africa, Kenya, Nairobi' // 👈 You Can change this your choice
+global.sc = 'https://github.com/GingerBreadSketchy'
 global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now)
-global.myweb = 'https://www.facebook.com/garfieldbots/'// 👈 Enter your Social media link to follow now button
+global.myweb = 'https://giveit.link/gingerbreadsketchy'// 👈 Enter your Social media link to follow now button
 global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
 global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your choice
-global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
+global.packname = 'PANDA BOT'  // 👈 You Can change this your choice 
+global.author = 'SKETCHY DEVS' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
+global.thumb =  'https://telegra.ph/file/97ad903ba5a233f75a751.jpg' 
 global.spoty = 'https://i.postimg.cc/HW2YbN1b/Pics-Art-22-08-09-16-12-14-489.png'
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
